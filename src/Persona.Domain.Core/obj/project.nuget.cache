@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mBXWg2oT0OWzw03JakTX5LlYGwtjjJs1RtnzfkbJl73jfVa+bGnUZTRoMfEPeeZ6LgUtmTR0uxbGOgLRYPaC/w==",
+  "dgSpecHash": "QuTRR9uHyR5Or2YT+wnsxY61893YfjEtlFgQvg3bFU9qO+oMLdjCAyDY98sL3hvKGtHaqc0B8ThqQcwbCEblZA==",
   "success": true,
-  "projectFilePath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj",
+  "projectFilePath": "C:\\git-anibaliym\\Persona\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anibal Yañez\\.nuget\\packages\\ardalis.smartenum\\2.1.0\\ardalis.smartenum.2.1.0.nupkg.sha512",
     "C:\\Users\\Anibal Yañez\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",

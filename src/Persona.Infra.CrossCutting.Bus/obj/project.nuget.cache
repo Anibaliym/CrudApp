@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G5cTL2cAhLWkEj2pSOcE8q8pyNfXpFMXP+laL3zusP5fj8c6af5ZtsHptioVA6WzDoZIjOCe8iP+6VAeF1wFzA==",
+  "dgSpecHash": "rzQokazLJ5JybFySqb9Pto60XMd46A4pQbtXkdNJt2wqioCj6Qz5Sz/yqh9F+jcZiO1P9i3pYbJxoyyEq94lYw==",
   "success": true,
-  "projectFilePath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj",
+  "projectFilePath": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anibal Yañez\\.nuget\\packages\\ardalis.smartenum\\2.1.0\\ardalis.smartenum.2.1.0.nupkg.sha512",
     "C:\\Users\\Anibal Yañez\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",

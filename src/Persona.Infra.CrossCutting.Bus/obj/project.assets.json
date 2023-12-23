@@ -202,11 +202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj",
+      "projectUniqueName": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj",
       "projectName": "Persona.Infra.CrossCutting.Bus",
-      "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj",
+      "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj",
       "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
-      "outputPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\obj\\",
+      "outputPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.Bus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -223,8 +223,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj": {
-              "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj"
+            "C:\\git-anibaliym\\Persona\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj": {
+              "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj"
             }
           }
         }
