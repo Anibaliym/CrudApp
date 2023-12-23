@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "mBXWg2oT0OWzw03JakTX5LlYGwtjjJs1RtnzfkbJl73jfVa+bGnUZTRoMfEPeeZ6LgUtmTR0uxbGOgLRYPaC/w==",
+  "success": true,
+  "projectFilePath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anibal Yañez\\.nuget\\packages\\ardalis.smartenum\\2.1.0\\ardalis.smartenum.2.1.0.nupkg.sha512",
+    "C:\\Users\\Anibal Yañez\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\Anibal Yañez\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Anibal Yañez\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Anibal Yañez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

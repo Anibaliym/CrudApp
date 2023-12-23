@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Persona.Domain.Core\Persona.Domain.Core.csproj" />
+    <ProjectReference Include="..\Persona.Infra.CrossCutting.Bus\Persona.Infra.CrossCutting.Bus.csproj" />
+  </ItemGroup>
+
+</Project>

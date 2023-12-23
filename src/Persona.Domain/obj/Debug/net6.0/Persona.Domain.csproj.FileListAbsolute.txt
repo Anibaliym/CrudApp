@@ -1,0 +1,17 @@
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain\bin\Debug\net6.0\Persona.Domain.deps.json
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain\bin\Debug\net6.0\Persona.Domain.dll
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain\bin\Debug\net6.0\Persona.Domain.pdb
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain\bin\Debug\net6.0\Persona.Domain.Core.dll
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain\bin\Debug\net6.0\Persona.Infra.CrossCutting.Bus.dll
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain\bin\Debug\net6.0\Persona.Domain.Core.pdb
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain\bin\Debug\net6.0\Persona.Infra.CrossCutting.Bus.pdb
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain\obj\Debug\net6.0\Persona.Domain.csproj.AssemblyReference.cache
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain\obj\Debug\net6.0\Persona.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain\obj\Debug\net6.0\Persona.Domain.AssemblyInfoInputs.cache
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain\obj\Debug\net6.0\Persona.Domain.AssemblyInfo.cs
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain\obj\Debug\net6.0\Persona.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain\obj\Debug\net6.0\Persona.Domain.csproj.CopyComplete
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain\obj\Debug\net6.0\Persona.Domain.dll
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain\obj\Debug\net6.0\refint\Persona.Domain.dll
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain\obj\Debug\net6.0\Persona.Domain.pdb
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain\obj\Debug\net6.0\ref\Persona.Domain.dll

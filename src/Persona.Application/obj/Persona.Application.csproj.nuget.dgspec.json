@@ -1,0 +1,362 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Application\\Persona.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Application\\Persona.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Application\\Persona.Application.csproj",
+        "projectName": "Persona.Application",
+        "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Application\\Persona.Application.csproj",
+        "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
+        "outputPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\Persona.Domain.csproj": {
+                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\Persona.Domain.csproj"
+              },
+              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj": {
+                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj",
+        "projectName": "Persona.Domain.Core",
+        "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
+        "outputPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Ardalis.SmartEnum": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\Persona.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\Persona.Domain.csproj",
+        "projectName": "Persona.Domain",
+        "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\Persona.Domain.csproj",
+        "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
+        "outputPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj": {
+                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj"
+              },
+              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj": {
+                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj",
+        "projectName": "Persona.Infra.CrossCutting.Bus",
+        "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj",
+        "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
+        "outputPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj": {
+                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj",
+        "projectName": "Persona.Infra.Data.PostgreSQL",
+        "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj",
+        "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
+        "outputPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.Data.PostgreSQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj": {
+                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj"
+              },
+              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\Persona.Domain.csproj": {
+                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\Persona.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

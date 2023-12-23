@@ -1,0 +1,12 @@
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain.Core\bin\Debug\net6.0\Persona.Domain.Core.deps.json
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain.Core\bin\Debug\net6.0\Persona.Domain.Core.dll
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain.Core\bin\Debug\net6.0\Persona.Domain.Core.pdb
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain.Core\obj\Debug\net6.0\Persona.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain.Core\obj\Debug\net6.0\Persona.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain.Core\obj\Debug\net6.0\Persona.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain.Core\obj\Debug\net6.0\Persona.Domain.Core.AssemblyInfo.cs
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain.Core\obj\Debug\net6.0\Persona.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain.Core\obj\Debug\net6.0\Persona.Domain.Core.dll
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain.Core\obj\Debug\net6.0\refint\Persona.Domain.Core.dll
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain.Core\obj\Debug\net6.0\Persona.Domain.Core.pdb
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Domain.Core\obj\Debug\net6.0\ref\Persona.Domain.Core.dll

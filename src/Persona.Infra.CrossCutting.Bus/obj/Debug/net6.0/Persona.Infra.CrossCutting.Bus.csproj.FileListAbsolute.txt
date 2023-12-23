@@ -1,0 +1,15 @@
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.Bus\bin\Debug\net6.0\Persona.Infra.CrossCutting.Bus.deps.json
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.Bus\bin\Debug\net6.0\Persona.Infra.CrossCutting.Bus.dll
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.Bus\bin\Debug\net6.0\Persona.Infra.CrossCutting.Bus.pdb
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.Bus\bin\Debug\net6.0\Persona.Domain.Core.dll
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.Bus\bin\Debug\net6.0\Persona.Domain.Core.pdb
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.Bus\obj\Debug\net6.0\Persona.Infra.CrossCutting.Bus.csproj.AssemblyReference.cache
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.Bus\obj\Debug\net6.0\Persona.Infra.CrossCutting.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.Bus\obj\Debug\net6.0\Persona.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.Bus\obj\Debug\net6.0\Persona.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.Bus\obj\Debug\net6.0\Persona.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.Bus\obj\Debug\net6.0\Persona.Infra.CrossCutting.Bus.csproj.CopyComplete
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.Bus\obj\Debug\net6.0\Persona.Infra.CrossCutting.Bus.dll
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.Bus\obj\Debug\net6.0\refint\Persona.Infra.CrossCutting.Bus.dll
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.Bus\obj\Debug\net6.0\Persona.Infra.CrossCutting.Bus.pdb
+C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.Bus\obj\Debug\net6.0\ref\Persona.Infra.CrossCutting.Bus.dll

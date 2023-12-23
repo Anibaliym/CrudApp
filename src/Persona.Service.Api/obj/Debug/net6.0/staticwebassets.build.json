@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X2GkTrYSQOvzjzbTa7XkeuHrX0Gsk1HnKrf1f4K40UI=",
+  "Source": "Persona.Service.Api",
+  "BasePath": "_content/Persona.Service.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
