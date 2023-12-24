@@ -1,5 +1,4 @@
 ﻿using Persona.Domain.Core.Data;
-using System;
 
 namespace Persona.Domain.Interfaces
 {

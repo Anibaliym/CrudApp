@@ -33,18 +33,20 @@ namespace Persona.Application.Services
 
         public async Task<CommandResponse> Modificar(PersonaModificarViewModel modelo)
         {
-            throw new NotImplementedException();
+            var command = _mapper.Map<PersonaModificarCommand>(modelo);
+            return await _mediator.SendCommand(command);
         }
 
         public async Task<CommandResponse> Eliminar(Guid id)
         {
-            throw new NotImplementedException();
+            var deleteCommand = new PersonaEliminarCommand(id);
+            return await _mediator.SendCommand(deleteCommand);
         }
+
         public async Task<IList<PersonaHistoryData>> GetAllHistory(Guid id)
         {
             return PersonaHistory.ToJavaScriptCustomerHistory(await _eventStoreRepository.All(id));
         }
-
 
         public async Task<PersonaViewModel> BuscaPorId(Guid id)
         {
@@ -53,22 +55,22 @@ namespace Persona.Application.Services
 
         public async Task<PersonaViewModel> BuscaPorRut(string rut)
         {
-            throw new NotImplementedException();
+            return _mapper.Map<PersonaViewModel>(await _personaRepository.BuscaPorRut(rut));
         }
 
         public async Task<IList<PersonaViewModel>> BuscaPorNombreCoincidencias(string nombre)
         {
-            throw new NotImplementedException();
+            return _mapper.Map<IList<PersonaViewModel>>(await _personaRepository.BuscaPorNombreCoincidencias(nombre));
         }
 
-        public async Task<IList<PersonaViewModel>> BuscaPorApellidoPaternoCoincidencias(string nombre)
+        public async Task<IList<PersonaViewModel>> BuscaPorApellidoPaternoCoincidencias(string apellidoPaterno)
         {
-            throw new NotImplementedException();
+            return _mapper.Map<IList<PersonaViewModel>>(await _personaRepository.BuscaPorApellidoPaternoCoincidencias(apellidoPaterno));
         }
 
-        public async Task<IList<PersonaViewModel>> BuscaPorApellidoMaternoCoincidencias(string nombre)
+        public async Task<IList<PersonaViewModel>> BuscaPorApellidoMaternoCoincidencias(string apellidoMaterno)
         {
-            throw new NotImplementedException();
+            return _mapper.Map<IList<PersonaViewModel>>(await _personaRepository.BuscaPorApellidoMaternoCoincidencias(apellidoMaterno));
         }
 
         public void Dispose()

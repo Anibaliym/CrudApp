@@ -7,9 +7,6 @@ namespace Persona.Application.ViewModels.Persona
         [DisplayName("Id")]
         public Guid Id { get; set; }
 
-        [DisplayName("Rut")]
-        public string Rut { get; set; } = string.Empty;
-
         [DisplayName("Nombre")]
         public string Nombre { get; set; } = string.Empty;
 

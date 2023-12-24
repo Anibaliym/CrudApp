@@ -16,6 +16,16 @@ namespace Persona.Application.AutoMapper
                 persona.FechaNacimiento, 
                 persona.Sexo
             ));
+
+            CreateMap<PersonaModificarViewModel, PersonaModificarCommand>().ConstructUsing(persona => new PersonaModificarCommand(
+                persona.Id, 
+                persona.Nombre, 
+                persona.ApellidoPaterno, 
+                persona.ApellidoMaterno, 
+                persona.FechaNacimiento, 
+                persona.Sexo
+            ));
+
         }
     }
 }

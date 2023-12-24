@@ -29,20 +29,19 @@ namespace Persona.Infra.CrossCutting.IoC
 
             //Domain Events
             services.AddScoped<INotificationHandler<PersonaCrearEvent>, PersonaCrearEventHandler>();
-            //services.AddScoped<INotificationHandler<PersonaModificarEvent>, ConcesionCrearEventHandler>();
-            //services.AddScoped<INotificationHandler<PersonaEliminarEvent>, ConcesionCrearEventHandler>();
+            services.AddScoped<INotificationHandler<PersonaModificarEvent>, PersonaModificarEventHandler>();
+            services.AddScoped<INotificationHandler<PersonaEliminarEvent>, PersonaEliminarEventHandler>();
 
 
             //Domain Commands
             services.AddScoped<IRequestHandler<PersonaCrearCommand, CommandResponse>, PersonaCommandHandler>();
-            //services.AddScoped<IRequestHandler<PersonaModificarCommand, CommandResponse>, PersonaCommandHandler>();
-            //services.AddScoped<IRequestHandler<PersonaEliminarCommand, CommandResponse>, PersonaCommandHandler>();
+            services.AddScoped<IRequestHandler<PersonaModificarCommand, CommandResponse>, PersonaCommandHandler>();
+            services.AddScoped<IRequestHandler<PersonaEliminarCommand, CommandResponse>, PersonaCommandHandler>();
 
             //InfraData
             services.AddScoped<IPersonaRepository, PersonaRepository>();
 
             services.AddScoped<PersonaContext>();
-
 
             //Infra Data EventSourcing
             services.AddScoped<IEventStoreRepository, EventStoreSqlRepository>();

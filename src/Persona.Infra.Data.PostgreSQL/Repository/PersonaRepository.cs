@@ -2,7 +2,6 @@
 using Persona.Domain.Core.Data;
 using Persona.Domain.Interfaces;
 using Persona.Infra.Data.PostgreSQL.Context;
-using System;
 
 namespace Persona.Infra.Data.PostgreSQL.Repository
 {
@@ -21,12 +20,12 @@ namespace Persona.Infra.Data.PostgreSQL.Repository
 
         public async Task<IEnumerable<Domain.Entities.Persona>> BuscaPorApellidoMaternoCoincidencias(string apellidoMaterno)
         {
-            throw new NotImplementedException();
+            return DbSet.Where(p => EF.Functions.Like(p.ApellidoMaterno.ToUpper(), "%" + apellidoMaterno.ToUpper() + "%")).ToList();
         }
 
         public async Task<IEnumerable<Domain.Entities.Persona>> BuscaPorApellidoPaternoCoincidencias(string apellidoPaterno)
         {
-            throw new NotImplementedException();
+            return DbSet.Where(p => EF.Functions.Like(p.ApellidoPaterno.ToUpper(), "%" + apellidoPaterno.ToUpper() + "%")).ToList();
         }
 
         public async Task<Domain.Entities.Persona> BuscaPorId(Guid id)
@@ -36,12 +35,12 @@ namespace Persona.Infra.Data.PostgreSQL.Repository
 
         public async Task<IEnumerable<Domain.Entities.Persona>> BuscaPorNombreCoincidencias(string nombre)
         {
-            throw new NotImplementedException();
+            return DbSet.Where(p => EF.Functions.Like(p.Nombre.ToUpper(), "%" + nombre.ToUpper() + "%")).ToList();
         }
 
         public async Task<Domain.Entities.Persona> BuscaPorRut(string rut)
         {
-            return await DbSet.AsNoTracking().Where(c => c.Rut == rut).FirstOrDefaultAsync();
+            return await DbSet.AsNoTracking().Where(P => P.Rut == rut).FirstOrDefaultAsync();
         }
 
         public void Crear(Domain.Entities.Persona modelo)

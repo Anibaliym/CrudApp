@@ -6,6 +6,11 @@ namespace Persona.Domain.Commands.Persona.Validations
     {
         public PersonaCrearCommandValidations() {
             ValidaRut();
+            ValidaNombre();
+            ValidaApellidoPaterno();
+            ValidaApellidoMaterno();
+            ValidaFechaNacimiento();
+            ValidaSexo();
         }
     }
 }

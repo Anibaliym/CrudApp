@@ -2,7 +2,7 @@
 
 namespace Persona.Domain.Events.Persona.Events
 {
-    internal class PersonaModificarEvent : Event
+    public class PersonaModificarEvent : Event
     {
         public PersonaModificarEvent(Guid id, string rut, string nombre, string apellidoPaterno, string apellidoMaterno, DateTime fechaNacimiento, string sexo)
         {
