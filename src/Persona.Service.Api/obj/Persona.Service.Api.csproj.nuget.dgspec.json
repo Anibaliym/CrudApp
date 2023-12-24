@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Service.Api\\Persona.Service.Api.csproj": {}
+    "C:\\git-anibaliym\\Persona\\src\\Persona.Service.Api\\Persona.Service.Api.csproj": {}
   },
   "projects": {
-    "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Application\\Persona.Application.csproj": {
+    "C:\\git-anibaliym\\Persona\\src\\Persona.Application\\Persona.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Application\\Persona.Application.csproj",
+        "projectUniqueName": "C:\\git-anibaliym\\Persona\\src\\Persona.Application\\Persona.Application.csproj",
         "projectName": "Persona.Application",
-        "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Application\\Persona.Application.csproj",
+        "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Application\\Persona.Application.csproj",
         "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
-        "outputPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Application\\obj\\",
+        "outputPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\Persona.Domain.csproj": {
-                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\Persona.Domain.csproj"
+              "C:\\git-anibaliym\\Persona\\src\\Persona.Domain\\Persona.Domain.csproj": {
+                "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Domain\\Persona.Domain.csproj"
               },
-              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj": {
-                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj"
+              "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj": {
+                "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj": {
+    "C:\\git-anibaliym\\Persona\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj",
+        "projectUniqueName": "C:\\git-anibaliym\\Persona\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj",
         "projectName": "Persona.Domain.Core",
-        "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj",
+        "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
-        "outputPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\obj\\",
+        "outputPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -141,14 +141,14 @@
         }
       }
     },
-    "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\Persona.Domain.csproj": {
+    "C:\\git-anibaliym\\Persona\\src\\Persona.Domain\\Persona.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\Persona.Domain.csproj",
+        "projectUniqueName": "C:\\git-anibaliym\\Persona\\src\\Persona.Domain\\Persona.Domain.csproj",
         "projectName": "Persona.Domain",
-        "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\Persona.Domain.csproj",
+        "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Domain\\Persona.Domain.csproj",
         "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
-        "outputPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\obj\\",
+        "outputPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -165,11 +165,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj": {
-                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj"
+              "C:\\git-anibaliym\\Persona\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj": {
+                "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj"
               },
-              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj": {
-                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj"
+              "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj": {
+                "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj"
               }
             }
           }
@@ -209,14 +209,14 @@
         }
       }
     },
-    "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj": {
+    "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj",
+        "projectUniqueName": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj",
         "projectName": "Persona.Infra.CrossCutting.Bus",
-        "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj",
+        "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj",
         "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
-        "outputPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\obj\\",
+        "outputPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.Bus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -233,8 +233,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj": {
-                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj"
+              "C:\\git-anibaliym\\Persona\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj": {
+                "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj"
               }
             }
           }
@@ -274,14 +274,14 @@
         }
       }
     },
-    "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.IoC\\Persona.Infra.CrossCutting.IoC.csproj": {
+    "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.IoC\\Persona.Infra.CrossCutting.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.IoC\\Persona.Infra.CrossCutting.IoC.csproj",
+        "projectUniqueName": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.IoC\\Persona.Infra.CrossCutting.IoC.csproj",
         "projectName": "Persona.Infra.CrossCutting.IoC",
-        "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.IoC\\Persona.Infra.CrossCutting.IoC.csproj",
+        "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.IoC\\Persona.Infra.CrossCutting.IoC.csproj",
         "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
-        "outputPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.IoC\\obj\\",
+        "outputPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -298,14 +298,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Application\\Persona.Application.csproj": {
-                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Application\\Persona.Application.csproj"
+              "C:\\git-anibaliym\\Persona\\src\\Persona.Application\\Persona.Application.csproj": {
+                "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Application\\Persona.Application.csproj"
               },
-              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\Persona.Domain.csproj": {
-                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\Persona.Domain.csproj"
+              "C:\\git-anibaliym\\Persona\\src\\Persona.Domain\\Persona.Domain.csproj": {
+                "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Domain\\Persona.Domain.csproj"
               },
-              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj": {
-                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj"
+              "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj": {
+                "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj"
               }
             }
           }
@@ -339,14 +339,14 @@
         }
       }
     },
-    "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj": {
+    "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj",
+        "projectUniqueName": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj",
         "projectName": "Persona.Infra.Data.PostgreSQL",
-        "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj",
+        "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj",
         "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
-        "outputPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.Data.PostgreSQL\\obj\\",
+        "outputPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.Data.PostgreSQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -363,11 +363,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj": {
-                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj"
+              "C:\\git-anibaliym\\Persona\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj": {
+                "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Domain.Core\\Persona.Domain.Core.csproj"
               },
-              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\Persona.Domain.csproj": {
-                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Domain\\Persona.Domain.csproj"
+              "C:\\git-anibaliym\\Persona\\src\\Persona.Domain\\Persona.Domain.csproj": {
+                "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Domain\\Persona.Domain.csproj"
               }
             }
           }
@@ -423,14 +423,14 @@
         }
       }
     },
-    "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Service.Api\\Persona.Service.Api.csproj": {
+    "C:\\git-anibaliym\\Persona\\src\\Persona.Service.Api\\Persona.Service.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Service.Api\\Persona.Service.Api.csproj",
+        "projectUniqueName": "C:\\git-anibaliym\\Persona\\src\\Persona.Service.Api\\Persona.Service.Api.csproj",
         "projectName": "Persona.Service.Api",
-        "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Service.Api\\Persona.Service.Api.csproj",
+        "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Service.Api\\Persona.Service.Api.csproj",
         "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
-        "outputPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Service.Api\\obj\\",
+        "outputPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Service.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -447,14 +447,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Application\\Persona.Application.csproj": {
-                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Application\\Persona.Application.csproj"
+              "C:\\git-anibaliym\\Persona\\src\\Persona.Application\\Persona.Application.csproj": {
+                "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Application\\Persona.Application.csproj"
               },
-              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj": {
-                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj"
+              "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj": {
+                "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.Bus\\Persona.Infra.CrossCutting.Bus.csproj"
               },
-              "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.IoC\\Persona.Infra.CrossCutting.IoC.csproj": {
-                "projectPath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.CrossCutting.IoC\\Persona.Infra.CrossCutting.IoC.csproj"
+              "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.IoC\\Persona.Infra.CrossCutting.IoC.csproj": {
+                "projectPath": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.CrossCutting.IoC\\Persona.Infra.CrossCutting.IoC.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3nkuVTFfXQBkPrAerEhTZt1uT0Csyw1I+V2YDcnL/0ztbWHE59IcTS00HUY7lg98MZi2g89NnpU1P9WqfuNnlg==",
+  "dgSpecHash": "YU9Wlhzt3pDxizwUou4hGV2iswYUWh0y3nvsF8gHN5kKcYmoLzQ5HcqK1I42YX+DIXtcgjdxH66nufT93/V+Yw==",
   "success": true,
-  "projectFilePath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj",
+  "projectFilePath": "C:\\git-anibaliym\\Persona\\src\\Persona.Infra.Data.PostgreSQL\\Persona.Infra.Data.PostgreSQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anibal Yañez\\.nuget\\packages\\ardalis.smartenum\\2.1.0\\ardalis.smartenum.2.1.0.nupkg.sha512",
     "C:\\Users\\Anibal Yañez\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",

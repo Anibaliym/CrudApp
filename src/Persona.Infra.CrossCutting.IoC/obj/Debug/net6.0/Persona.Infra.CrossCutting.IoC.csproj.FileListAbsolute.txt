@@ -21,3 +21,27 @@ C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Pe
 C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.IoC\obj\Debug\net6.0\refint\Persona.Infra.CrossCutting.IoC.dll
 C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.IoC\obj\Debug\net6.0\Persona.Infra.CrossCutting.IoC.pdb
 C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.CrossCutting.IoC\obj\Debug\net6.0\ref\Persona.Infra.CrossCutting.IoC.dll
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\bin\Debug\net6.0\Persona.Infra.CrossCutting.IoC.deps.json
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\bin\Debug\net6.0\Persona.Infra.CrossCutting.IoC.dll
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\bin\Debug\net6.0\Persona.Infra.CrossCutting.IoC.pdb
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\bin\Debug\net6.0\Persona.Application.dll
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\bin\Debug\net6.0\Persona.Domain.Core.dll
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\bin\Debug\net6.0\Persona.Domain.dll
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\bin\Debug\net6.0\Persona.Infra.CrossCutting.Bus.dll
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\bin\Debug\net6.0\Persona.Infra.Data.PostgreSQL.dll
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\bin\Debug\net6.0\Persona.Application.pdb
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\bin\Debug\net6.0\Persona.Domain.pdb
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\bin\Debug\net6.0\Persona.Infra.Data.PostgreSQL.pdb
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\bin\Debug\net6.0\Persona.Domain.Core.pdb
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\bin\Debug\net6.0\Persona.Infra.CrossCutting.Bus.pdb
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\obj\Debug\net6.0\Persona.Infra.CrossCutting.IoC.csproj.AssemblyReference.cache
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\obj\Debug\net6.0\Persona.Infra.CrossCutting.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\obj\Debug\net6.0\Persona.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\obj\Debug\net6.0\Persona.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\obj\Debug\net6.0\Persona.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\obj\Debug\net6.0\Persona.Infra.CrossCutting.IoC.sourcelink.json
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\obj\Debug\net6.0\Persona.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\obj\Debug\net6.0\Persona.Infra.CrossCutting.IoC.dll
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\obj\Debug\net6.0\refint\Persona.Infra.CrossCutting.IoC.dll
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\obj\Debug\net6.0\Persona.Infra.CrossCutting.IoC.pdb
+C:\git-anibaliym\Persona\src\Persona.Infra.CrossCutting.IoC\obj\Debug\net6.0\ref\Persona.Infra.CrossCutting.IoC.dll

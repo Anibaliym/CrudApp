@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TMQqjcdSrlavPHt8ULbWP5/OG2xV+yrcSxc6iJcopcpSjJBlz/9wUudfoJVq2f4B0Q3eCIdiCZBURFWsPzCW2Q==",
+  "dgSpecHash": "/9IC3Qz+2eV8ynFyV3IZTqUXFSdN9MM9ivaVZrl22uN+I1L7MDYSkMi5qna0V8EyA3eKqJz4jwzR4m8UwVH+Lg==",
   "success": true,
-  "projectFilePath": "C:\\git-anibaliym\\PersonaApp\\src\\Persona.Service.Api\\Persona.Service.Api.csproj",
+  "projectFilePath": "C:\\git-anibaliym\\Persona\\src\\Persona.Service.Api\\Persona.Service.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anibal Yañez\\.nuget\\packages\\ardalis.smartenum\\2.1.0\\ardalis.smartenum.2.1.0.nupkg.sha512",
     "C:\\Users\\Anibal Yañez\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",

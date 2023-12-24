@@ -17,3 +17,23 @@ C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Pe
 C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.Data.PostgreSQL\obj\Debug\net6.0\refint\Persona.Infra.Data.PostgreSQL.dll
 C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.Data.PostgreSQL\obj\Debug\net6.0\Persona.Infra.Data.PostgreSQL.pdb
 C:\Users\Anibal Yañez\Desktop\mantenedor - arquitectura exagonal\Persona\src\Persona.Infra.Data.PostgreSQL\obj\Debug\net6.0\ref\Persona.Infra.Data.PostgreSQL.dll
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\bin\Debug\net6.0\Persona.Infra.Data.PostgreSQL.deps.json
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\bin\Debug\net6.0\Persona.Infra.Data.PostgreSQL.dll
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\bin\Debug\net6.0\Persona.Infra.Data.PostgreSQL.pdb
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\bin\Debug\net6.0\Persona.Domain.Core.dll
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\bin\Debug\net6.0\Persona.Domain.dll
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\bin\Debug\net6.0\Persona.Infra.CrossCutting.Bus.dll
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\bin\Debug\net6.0\Persona.Domain.Core.pdb
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\bin\Debug\net6.0\Persona.Domain.pdb
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\bin\Debug\net6.0\Persona.Infra.CrossCutting.Bus.pdb
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\obj\Debug\net6.0\Persona.Infra.Data.PostgreSQL.csproj.AssemblyReference.cache
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\obj\Debug\net6.0\Persona.Infra.Data.PostgreSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\obj\Debug\net6.0\Persona.Infra.Data.PostgreSQL.AssemblyInfoInputs.cache
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\obj\Debug\net6.0\Persona.Infra.Data.PostgreSQL.AssemblyInfo.cs
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\obj\Debug\net6.0\Persona.Infra.Data.PostgreSQL.csproj.CoreCompileInputs.cache
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\obj\Debug\net6.0\Persona.Infra.Data.PostgreSQL.sourcelink.json
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\obj\Debug\net6.0\Persona.Infra.Data.PostgreSQL.csproj.CopyComplete
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\obj\Debug\net6.0\Persona.Infra.Data.PostgreSQL.dll
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\obj\Debug\net6.0\refint\Persona.Infra.Data.PostgreSQL.dll
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\obj\Debug\net6.0\Persona.Infra.Data.PostgreSQL.pdb
+C:\git-anibaliym\Persona\src\Persona.Infra.Data.PostgreSQL\obj\Debug\net6.0\ref\Persona.Infra.Data.PostgreSQL.dll
