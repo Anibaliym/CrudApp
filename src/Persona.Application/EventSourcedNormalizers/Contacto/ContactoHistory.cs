@@ -26,6 +26,7 @@ namespace Persona.Application.EventSourcedNormalizers.Contacto
                     Celular = string.IsNullOrWhiteSpace(change.Celular) || change.Celular == last.Celular ? "" : change.Celular,
                     Correo = string.IsNullOrWhiteSpace(change.Correo) || change.Correo == last.Correo ? "" : change.Correo,
                     Direccion = string.IsNullOrWhiteSpace(change.Direccion) || change.Direccion == last.Direccion ? "" : change.Direccion,
+                    TipoDireccion = string.IsNullOrWhiteSpace(change.TipoDireccion) || change.TipoDireccion == last.TipoDireccion ? "" : change.TipoDireccion,
 
                     Action = string.IsNullOrWhiteSpace(change.Action) ? "" : change.Action,
                     Timestamp = change.Timestamp,
@@ -37,6 +38,7 @@ namespace Persona.Application.EventSourcedNormalizers.Contacto
                 jsSlot.Celular = HttpUtility.HtmlEncode(jsSlot.Celular);
                 jsSlot.Correo = HttpUtility.HtmlEncode(jsSlot.Correo);
                 jsSlot.Direccion = HttpUtility.HtmlEncode(jsSlot.Direccion);
+                jsSlot.TipoDireccion = HttpUtility.HtmlEncode(jsSlot.TipoDireccion);
 
                 list.Add(jsSlot);
                 last = change;

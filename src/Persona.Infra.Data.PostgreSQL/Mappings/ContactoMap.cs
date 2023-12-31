@@ -12,6 +12,7 @@ namespace Persona.Infra.Data.PostgreSQL.Mappings
             builder.Property(c => c.Celular).HasColumnName("Celular").HasColumnType("varchar").HasMaxLength(20).IsRequired();
             builder.Property(c => c.Correo).HasColumnName("Correo").HasColumnType("varchar").HasMaxLength(200).IsRequired();
             builder.Property(c => c.Direccion).HasColumnName("Direccion").HasColumnType("varchar").HasMaxLength(100).IsRequired();
+            builder.Property(c => c.TipoDireccion).HasColumnName("TipoDireccion").HasColumnType("varchar").HasMaxLength(30).IsRequired();
         }
     }
 }

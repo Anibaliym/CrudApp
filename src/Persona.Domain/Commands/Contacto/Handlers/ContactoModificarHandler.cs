@@ -11,7 +11,7 @@ namespace Persona.Domain.Commands.Contacto.Handlers
         {
             if (!message.IsValid()) return message.CommandResponse;
 
-            var contacto = new Entities.Contacto(message.Id, message.IdPersona, message.Celular, message.Correo, message.Direccion);
+            var contacto = new Entities.Contacto(message.Id, message.IdPersona, message.Celular, message.Correo, message.Direccion, message.TipoDireccion);
 
             var existeContacto = await _contactoRepository.BuscaPorId(message.Id);
 
@@ -26,7 +26,8 @@ namespace Persona.Domain.Commands.Contacto.Handlers
                 contacto.IdPersona,
                 contacto.Celular,
                 contacto.Correo,
-                contacto.Direccion
+                contacto.Direccion, 
+                contacto.TipoDireccion
             ));
 
             _contactoRepository.Modificar(contacto);

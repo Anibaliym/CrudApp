@@ -18,5 +18,8 @@ namespace Persona.Application.ViewModels.Contacto
 
         [DisplayName("Direccion personal")]
         public string Direccion { get; set; } = string.Empty;
+
+        [DisplayName("Tipo de dirección")]
+        public string TipoDireccion { get; set; } = string.Empty;
     }
 }

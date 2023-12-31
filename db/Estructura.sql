@@ -18,7 +18,8 @@ create table if not exists public."Contacto"
     "IdPersona" uuid not null, 
     "Celular" varchar(20) not null, 
     "Correo" varchar(200) , 
-    "Direccion" varchar(100)  not null, 
+    "Direccion" varchar(100) not null, 
+    "TipoDireccion" varchar(30) not null, 
     constraint Contacto_pk primary key ("Id")
 ); 
 

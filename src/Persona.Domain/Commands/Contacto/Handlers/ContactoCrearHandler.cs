@@ -11,7 +11,7 @@ namespace Persona.Domain.Commands.Contacto.Handlers
         {
             if (!message.IsValid()) return message.CommandResponse;
 
-            var contacto = new Entities.Contacto(Guid.NewGuid(), message.IdPersona, message.Celular, message.Correo, message.Direccion);
+            var contacto = new Entities.Contacto(Guid.NewGuid(), message.IdPersona, message.Celular, message.Correo, message.Direccion, message.TipoDireccion);
             var existeContacto = await _contactoRepository.BuscaPorId(message.Id);
 
             if (existeContacto != null)
@@ -20,7 +20,7 @@ namespace Persona.Domain.Commands.Contacto.Handlers
                 return CommandResponse;
             }
 
-            contacto.AddDomainEvent(new ContactoCrearEvent(contacto.Id, contacto.IdPersona, contacto.Celular, contacto.Correo, contacto.Direccion));
+            contacto.AddDomainEvent(new ContactoCrearEvent(contacto.Id, contacto.IdPersona, contacto.Celular, contacto.Correo, contacto.Direccion, contacto.TipoDireccion));
 
             _contactoRepository.Crear(contacto);
 
