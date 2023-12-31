@@ -11,6 +11,7 @@ namespace Persona.Domain.Commands.Contacto.Validations
             ValidaCelular();
             ValidaCorreo();
             ValidaDireccion();
+            ValidaTipoDireccion();
         }
     }
 }
