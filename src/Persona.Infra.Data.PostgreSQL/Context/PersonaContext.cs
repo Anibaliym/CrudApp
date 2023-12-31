@@ -31,6 +31,7 @@ namespace Persona.Infra.Data.PostgreSQL.Context
                 property.SetColumnType("varchar(100)");
 
             modelBuilder.ApplyConfiguration(new PersonaMap());
+            modelBuilder.ApplyConfiguration(new ContactoMap());
 
             base.OnModelCreating(modelBuilder);
         }

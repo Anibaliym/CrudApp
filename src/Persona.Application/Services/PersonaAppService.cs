@@ -27,14 +27,14 @@ namespace Persona.Application.Services
 
         public async Task<CommandResponse> Crear(PersonaCrearViewModel modelo)
         {
-            var command = _mapper.Map<PersonaCrearCommand>(modelo);
-            return await _mediator.SendCommand(command);
+            var createCommand = _mapper.Map<PersonaCrearCommand>(modelo);
+            return await _mediator.SendCommand(createCommand);
         }
 
         public async Task<CommandResponse> Modificar(PersonaModificarViewModel modelo)
         {
-            var command = _mapper.Map<PersonaModificarCommand>(modelo);
-            return await _mediator.SendCommand(command);
+            var updateCommand = _mapper.Map<PersonaModificarCommand>(modelo);
+            return await _mediator.SendCommand(updateCommand);
         }
 
         public async Task<CommandResponse> Eliminar(Guid id)

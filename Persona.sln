@@ -11,23 +11,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{0F7E64FA-8E6A-4202-92DA-300E003E6D24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persona.Service.Api", "src\Persona.Service.Api\Persona.Service.Api.csproj", "{38CEDE08-F992-4772-B7A4-76E7FE6AFC21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persona.Service.Api", "src\Persona.Service.Api\Persona.Service.Api.csproj", "{38CEDE08-F992-4772-B7A4-76E7FE6AFC21}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Data", "4.1 - Data", "{FEC7CCD3-E51E-47B4-A8DA-9F1E405321AB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2 - CrossCutting", "4.2 - CrossCutting", "{CE073572-4512-4422-A172-0D6B48CE6AEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persona.Application", "src\Persona.Application\Persona.Application.csproj", "{4D4820AC-789B-446E-8888-DE973512BBEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persona.Application", "src\Persona.Application\Persona.Application.csproj", "{4D4820AC-789B-446E-8888-DE973512BBEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persona.Domain", "src\Persona.Domain\Persona.Domain.csproj", "{3F1C7A3D-CA31-43DD-A959-7C2C434E6EF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persona.Domain", "src\Persona.Domain\Persona.Domain.csproj", "{3F1C7A3D-CA31-43DD-A959-7C2C434E6EF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persona.Domain.Core", "src\Persona.Domain.Core\Persona.Domain.Core.csproj", "{7D7EF184-3955-4926-B5D5-1860BDF4F1D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persona.Domain.Core", "src\Persona.Domain.Core\Persona.Domain.Core.csproj", "{7D7EF184-3955-4926-B5D5-1860BDF4F1D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persona.Infra.Data.PostgreSQL", "src\Persona.Infra.Data.PostgreSQL\Persona.Infra.Data.PostgreSQL.csproj", "{4E5F4251-E7B2-4319-85D9-E5B46E14075F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persona.Infra.Data.PostgreSQL", "src\Persona.Infra.Data.PostgreSQL\Persona.Infra.Data.PostgreSQL.csproj", "{4E5F4251-E7B2-4319-85D9-E5B46E14075F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persona.Infra.CrossCutting.Bus", "src\Persona.Infra.CrossCutting.Bus\Persona.Infra.CrossCutting.Bus.csproj", "{86C83BE6-62D3-4705-9684-B9A5096CE75D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persona.Infra.CrossCutting.Bus", "src\Persona.Infra.CrossCutting.Bus\Persona.Infra.CrossCutting.Bus.csproj", "{86C83BE6-62D3-4705-9684-B9A5096CE75D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persona.Infra.CrossCutting.IoC", "src\Persona.Infra.CrossCutting.IoC\Persona.Infra.CrossCutting.IoC.csproj", "{C2949D73-D8D0-47DB-AA5F-F9390AC3FE9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persona.Infra.CrossCutting.IoC", "src\Persona.Infra.CrossCutting.IoC\Persona.Infra.CrossCutting.IoC.csproj", "{C2949D73-D8D0-47DB-AA5F-F9390AC3FE9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

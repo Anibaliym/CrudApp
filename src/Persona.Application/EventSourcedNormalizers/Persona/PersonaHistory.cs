@@ -22,13 +22,13 @@ namespace Persona.Application.EventSourcedNormalizers.Persona
             {
                 var jsSlot = new PersonaHistoryData
                 {
-                    Id = change.Id == Guid.Empty.ToString() || change.Id == last.Id ? "" : change.Id,
-                    Rut = string.IsNullOrWhiteSpace(change.Rut) || change.Rut == last.Rut ? "" : change.Rut,
-                    Nombre = string.IsNullOrWhiteSpace(change.Nombre) || change.Nombre == last.Nombre ? "" : change.Nombre,
-                    ApellidoPaterno = string.IsNullOrWhiteSpace(change.ApellidoPaterno) || change.ApellidoPaterno == last.ApellidoPaterno ? "" : change.ApellidoPaterno,
-                    ApellidoMaterno = string.IsNullOrWhiteSpace(change.ApellidoMaterno) || change.ApellidoMaterno == last.ApellidoMaterno ? "" : change.ApellidoMaterno,
-                    FechaNacimiento = string.IsNullOrWhiteSpace(change.FechaNacimiento) || change.FechaNacimiento == last.FechaNacimiento ? "" : change.FechaNacimiento.Substring(0, 10),
-                    Sexo = string.IsNullOrWhiteSpace(change.Sexo) || change.Sexo == last.Sexo ? "" : change.Sexo,
+                    Id              = change.Id == Guid.Empty.ToString() || change.Id == last.Id ? "" : change.Id,
+                    Rut             = string.IsNullOrWhiteSpace(change.Rut)             || change.Rut               == last.Rut             ? "" : change.Rut,
+                    Nombre          = string.IsNullOrWhiteSpace(change.Nombre)          || change.Nombre            == last.Nombre          ? "" : change.Nombre,
+                    ApellidoPaterno = string.IsNullOrWhiteSpace(change.ApellidoPaterno) || change.ApellidoPaterno   == last.ApellidoPaterno ? "" : change.ApellidoPaterno,
+                    ApellidoMaterno = string.IsNullOrWhiteSpace(change.ApellidoMaterno) || change.ApellidoMaterno   == last.ApellidoMaterno ? "" : change.ApellidoMaterno,
+                    FechaNacimiento = string.IsNullOrWhiteSpace(change.FechaNacimiento) || change.FechaNacimiento   == last.FechaNacimiento ? "" : change.FechaNacimiento.Substring(0, 10),
+                    Sexo            = string.IsNullOrWhiteSpace(change.Sexo)            || change.Sexo              == last.Sexo            ? "" : change.Sexo,
 
                     Action = string.IsNullOrWhiteSpace(change.Action) ? "" : change.Action,
                     Timestamp = change.Timestamp,
@@ -36,12 +36,12 @@ namespace Persona.Application.EventSourcedNormalizers.Persona
                 };
 
                 jsSlot.Id = HttpUtility.HtmlEncode(jsSlot.Id);
-                jsSlot.Rut = HttpUtility.HtmlEncode(jsSlot.Id);
-                jsSlot.Nombre = HttpUtility.HtmlEncode(jsSlot.Id);
-                jsSlot.ApellidoPaterno = HttpUtility.HtmlEncode(jsSlot.Id);
-                jsSlot.ApellidoMaterno = HttpUtility.HtmlEncode(jsSlot.Id);
-                jsSlot.FechaNacimiento = HttpUtility.HtmlEncode(jsSlot.Id);
-                jsSlot.Sexo = HttpUtility.HtmlEncode(jsSlot.Id);
+                jsSlot.Rut = HttpUtility.HtmlEncode(jsSlot.Rut);
+                jsSlot.Nombre = HttpUtility.HtmlEncode(jsSlot.Nombre);
+                jsSlot.ApellidoPaterno = HttpUtility.HtmlEncode(jsSlot.ApellidoPaterno);
+                jsSlot.ApellidoMaterno = HttpUtility.HtmlEncode(jsSlot.ApellidoMaterno);
+                jsSlot.FechaNacimiento = HttpUtility.HtmlEncode(jsSlot.FechaNacimiento);
+                jsSlot.Sexo = HttpUtility.HtmlEncode(jsSlot.Sexo);
 
                 list.Add(jsSlot);
                 last = change;
