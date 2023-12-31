@@ -10,7 +10,6 @@ namespace Persona.Application.AutoMapper
     {
         public ViewModelToDomainMappingProfile()
         {
-
             #region Persona
             CreateMap<PersonaCrearViewModel, PersonaCrearCommand>().ConstructUsing(persona => new PersonaCrearCommand(
                 persona.Rut, 
@@ -36,10 +35,18 @@ namespace Persona.Application.AutoMapper
                 contacto.IdPersona, 
                 contacto.Celular, 
                 contacto.Correo, 
-                contacto.Direccion
+                contacto.Direccion, 
+                contacto.TipoDireccion
             ));
 
-            CreateMap<ContactoModificarViewModel, ContactoModificarCommand>().ConstructUsing(contacto => new ContactoModificarCommand(contacto.Id, contacto.IdPersona, contacto.Celular, contacto.Correo, contacto.Direccion));
+            CreateMap<ContactoModificarViewModel, ContactoModificarCommand>().ConstructUsing(contacto => new ContactoModificarCommand(
+                contacto.Id, 
+                contacto.IdPersona, 
+                contacto.Celular, 
+                contacto.Correo, 
+                contacto.Direccion,
+                contacto.TipoDireccion
+            ));
             #endregion
         }
     }

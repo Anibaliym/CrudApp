@@ -1,4 +1,6 @@
 ﻿using FluentValidation;
+using Persona.Domain.Commands.CommonValidators.Validators;
+using Persona.Domain.Enumerations.Persona;
 
 namespace Persona.Domain.Commands.Contacto
 {
@@ -31,5 +33,14 @@ namespace Persona.Domain.Commands.Contacto
         {
             RuleFor(contacto => contacto.Direccion).NotEmpty().WithMessage("El campo 'Direccion' no puede ser vacío.");
         }
+
+        protected void ValidaTipoDireccion()
+        {
+            RuleFor(persona => persona.TipoDireccion)
+                .NotEmpty().WithMessage("Por favor asegurese que el 'TipoDireccion' no este vacio")
+                .Must(CommonValidator.ValidadorDeEnumeraciones<SexoEnum>).WithMessage("El 'TipoDireccion' debe estar entre los valores permitidos ('PARTICULAR','LABORAL').");
+
+        }
+
     }
 }

@@ -9,5 +9,6 @@ namespace Persona.Application.EventSourcedNormalizers.Contacto
         public string Celular { get; set; } = string.Empty;
         public string Correo { get; set; } = string.Empty;
         public string Direccion { get; set; } = string.Empty;
+        public string TipoDireccion { get; set; } = string.Empty;
     }
 }

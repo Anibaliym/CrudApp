@@ -5,12 +5,13 @@ namespace Persona.Domain.Commands.Contacto.Commands
 {
     public class ContactoCrearCommand : ContactoCommand
     {
-        public ContactoCrearCommand(Guid idPersona, string celular, string correo, string direccion)
+        public ContactoCrearCommand(Guid idPersona, string celular, string correo, string direccion, string tipoDireccion)
         {
             IdPersona = idPersona;
             Celular = celular;
             Correo = correo;
             Direccion = direccion;
+            TipoDireccion = tipoDireccion;
         }
 
         public override bool IsValid()

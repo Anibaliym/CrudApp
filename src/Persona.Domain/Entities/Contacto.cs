@@ -4,12 +4,13 @@ namespace Persona.Domain.Entities
 {
     public class Contacto : Entity, IAggregateRoot
     { 
-        public Contacto(Guid id, Guid idPersona, string celular, string correo, string direccion) {
+        public Contacto(Guid id, Guid idPersona, string celular, string correo, string direccion, string tipoDireccion) {
             Id = id;
             IdPersona = idPersona;
             Celular = celular;
             Correo = correo;
             Direccion = direccion;
+            TipoDireccion = tipoDireccion;
         }
 
         protected Contacto() { }
@@ -18,5 +19,6 @@ namespace Persona.Domain.Entities
         public string Celular { get; set; } = string.Empty;
         public string Correo { get; set; } = string.Empty;
         public string Direccion { get; set; } = string.Empty;
+        public string TipoDireccion { get; set; } = string.Empty;
     }
 }
